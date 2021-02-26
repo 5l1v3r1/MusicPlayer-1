@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01351B</color>
+
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="transparan">@android:color/transparent</color>
+    <color name="darkGreen">#0f4407</color>
+    <color name="holoDarkGreen">#01351B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorSelectedList">#FF92C4B5</color>
+    <color name="lightWhite">#efefef</color>
+
+    <color name="colorBorder">#920afa</color>
+</resources>

@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Hadise Album</string>
+    <string name="action_right_drawer">Ayarlar</string>
+
+    <string name="bannerDefault">ca-app-pub-4489728286075495/1804495208</string>
+    <string name="fullPageAds">ca-app-pub-4489728286075495/6865250193</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="rate_us">Oyla</string>
+    <string name="rate_us_desc">Deneyimlerinizi bizimle paylaşmak ister misiniz?</string>
+    <string name="later_rate_us">Sonra Oyla</string>
+    <string name="developer_account">8130554152588376746</string>
+
+    <string name="find_app_btn">Uygulama Edin</string>
+    <string name="share_app_btn">Paylaş</string>
+
+    <array name="musicTitle">
+        <item>1-Düm Tek Tek</item>
+        <item>2-Aşk Kaç Beden Giyer</item>
+        <item>3-Sıfır Tolerans</item>
+        <item>4-Farkımız Var</item>
+        <item>5-Prenses</item>
+        <item>6-Şampiyon</item>
+        <item>7-Evlenmeliyiz</item>
+        <item>8-Süperman</item>
+        <item>9-Stir Me Up</item>
+        <item>10-Nerdesin Aşkım</item>
+        <item>11-Biz Burdayız</item>
+        <item>12-Mesajımı Almıştır O</item>
+        <item>13-Yaz Günü</item>
+        <item>14-Aşkkolik</item>
+        <item>15-Kahraman</item>
+        <item>16-Kafa Tutuyor</item>
+        <item>17-A Good Kiss</item>
+        <item>18-Visal</item>
+        <item>19-Burjuva</item>
+        <item>20-Tavsiye</item>
+        <item>21-Deli Oğlan</item>
+        <item>22-Baksana</item>
+        <item>23-Düşman ft. Serdar Ortaç</item>
+        <item>24-İstisna</item>
+        <item>25-Melek</item>
+        <item>26-Rezerve</item>
+        <item>27-My Body</item>
+        <item>28-Sıradan</item>
+        <item>29-Don\'t Ask</item>
+        <item>30-Macera</item>
+        <item>31-Telefon Rehberi</item>
+        <item>32-Yetenek</item>
+        <item>33-Biraz Sabret</item>
+        <item>34-Supernatural Love</item>
+        <item>35-Yolumun Işığı</item>
+        <item>36-Bad Boy</item>
+        <item>37-Fast Life</item>
+        <item>38-(Ain\'t No) Love Lost</item>
+        <item>39-Double Life</item>
+        <item>40-Delikanlım</item>
+    </array>
+
+    <array name="fileName">
+        <item>sarki1</item>
+        <item>sarki2</item>
+        <item>sarki3</item>
+        <item>sarki4</item>
+        <item>sarki5</item>
+        <item>sarki6</item>
+        <item>sarki7</item>
+        <item>sarki8</item>
+        <item>sarki9</item>
+        <item>sarki10</item>
+        <item>sarki11</item>
+        <item>sarki12</item>
+        <item>sarki13</item>
+        <item>sarki14</item>
+        <item>sarki15</item>
+        <item>sarki16</item>
+        <item>sarki17</item>
+        <item>sarki18</item>
+        <item>sarki19</item>
+        <item>sarki20</item>
+        <item>sarki21</item>
+        <item>sarki22</item>
+        <item>sarki23</item>
+        <item>sarki24</item>
+        <item>sarki25</item>
+        <item>sarki26</item>
+        <item>sarki27</item>
+        <item>sarki28</item>
+        <item>sarki29</item>
+        <item>sarki30</item>
+        <item>sarki31</item>
+        <item>sarki32</item>
+        <item>sarki33</item>
+        <item>sarki34</item>
+        <item>sarki35</item>
+        <item>sarki36</item>
+        <item>sarki37</item>
+        <item>sarki38</item>
+        <item>sarki39</item>
+        <item>sarki40</item>
+    </array>
+
+    <array name="ringtone">
+
+        <item>Zil sesi yap</item>
+        <item>Alarm sesi yap</item>
+
+    </array>
+
+</resources>
